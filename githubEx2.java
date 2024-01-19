@@ -1,5 +1,7 @@
 package githubEx;
 
+import java.util.Scanner;
+
 public class githubEx2 {
 
 	public static void main(String[] args) {
@@ -11,6 +13,9 @@ public class githubEx2 {
 
 
 		// github-co2-wonangs의 연습입니다.
+		int a = sc.nextInt();
+		System.out.print(a);
+		
 	}
 
 }
